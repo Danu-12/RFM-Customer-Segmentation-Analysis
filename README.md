@@ -1,4 +1,4 @@
-![rfm-banner.png](https://i.postimg.cc/d35sQfS3/rfm-banner.png)]
+![rfm-banner.png](https://i.postimg.cc/d35sQfS3/rfm-banner.png)
 
 # RFM Customer segmentation Analysis
 
